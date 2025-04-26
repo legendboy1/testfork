@@ -1,0 +1,81 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<svg
+   ffdec:objectType="shape"
+   height="80.15px"
+   width="45.65px"
+   version="1.1"
+   id="svg9"
+   sodipodi:docname="e0013.svg"
+   inkscape:version="1.3.2 (091e20e, 2023-11-25, custom)"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:svg="http://www.w3.org/2000/svg"
+   xmlns:ffdec="https://www.free-decompiler.com/flash">
+  <defs
+     id="defs9" />
+  <sodipodi:namedview
+     id="namedview9"
+     pagecolor="#ffffff"
+     bordercolor="#000000"
+     borderopacity="0.25"
+     inkscape:showpageshadow="2"
+     inkscape:pageopacity="0.0"
+     inkscape:pagecheckerboard="0"
+     inkscape:deskcolor="#d1d1d1"
+     inkscape:zoom="14.635059"
+     inkscape:cx="22.82191"
+     inkscape:cy="40.075001"
+     inkscape:window-width="2560"
+     inkscape:window-height="1369"
+     inkscape:window-x="-8"
+     inkscape:window-y="-8"
+     inkscape:window-maximized="1"
+     inkscape:current-layer="g9" />
+  <g
+     transform="matrix(1.0, 0.0, 0.0, 1.0, 21.8, 81.3)"
+     id="g9">
+    <path
+       d="M4.05 -34.75 Q10.45 -35.25 14.35 -37.95 18.5 -40.75 20.4 -43.8 L21.4 -45.6 Q25.2 -54.75 23.05 -63.75 21.45 -70.3 17.0 -74.75 10.6 -81.25 -0.5 -81.3 -10.4 -81.3 -16.2 -74.85 -19.55 -71.1 -20.9 -65.95 -21.95 -61.85 -21.75 -56.85 -21.55 -52.55 -20.25 -48.4 -18.7 -43.6 -16.1 -40.85 -11.05 -35.45 -2.2 -34.75 L-1.65 -34.75 -1.6 -34.75 -1.0 -34.7 -0.85 -34.7 2.9 -34.7 3.45 -34.75 3.5 -34.75 4.05 -34.75 M-19.95 -64.0 L-19.6 -65.6 Q-18.3 -70.45 -15.2 -73.95 -9.75 -79.95 -0.5 -79.95 9.95 -79.9 16.05 -73.8 20.25 -69.6 21.7 -63.45 23.8 -54.85 20.15 -46.15 L19.3 -44.55 18.75 -43.75 Q16.95 -41.3 13.6 -39.05 9.8 -36.45 3.4 -36.1 1.45 -35.95 -0.8 -36.05 L-1.6 -36.1 Q-10.25 -36.6 -15.15 -41.8 -17.5 -44.35 -18.95 -48.8 -20.2 -52.75 -20.4 -56.9 -20.55 -60.75 -19.95 -64.0"
+       fill="#8f49ba"
+       fill-rule="evenodd"
+       stroke="none"
+       id="path1" />
+    <path
+       d="M18.75 -43.75 L19.3 -44.55 20.15 -46.15 Q23.8 -54.85 21.7 -63.45 20.25 -69.6 16.05 -73.8 9.95 -79.9 -0.5 -79.95 -9.75 -79.95 -15.2 -73.95 -18.3 -70.45 -19.6 -65.6 L-19.95 -64.0 Q-18.95 -60.05 -15.2 -56.0 -10.95 -51.45 -4.35 -47.95 2.15 -44.55 8.6 -43.45 L18.75 -43.75 M15.25 -72.45 Q16.75 -70.4 15.75 -67.95 14.8 -65.55 11.25 -65.5 7.65 -65.45 5.45 -66.9 3.25 -68.4 1.9 -70.75 0.55 -73.05 1.95 -75.15 3.4 -77.25 6.3 -77.15 9.2 -77.05 11.45 -75.8 13.75 -74.55 15.25 -72.45"
+       fill="#cd79fb"
+       fill-rule="evenodd"
+       stroke="none"
+       id="path2" />
+    <path
+       d="M-19.95 -64.0 Q-20.55 -60.75 -20.4 -56.9 -20.2 -52.75 -18.95 -48.8 -17.5 -44.35 -15.15 -41.8 -10.25 -36.6 -1.6 -36.1 L-0.8 -36.05 Q1.45 -35.95 3.4 -36.1 9.8 -36.45 13.6 -39.05 16.95 -41.3 18.75 -43.75 L8.6 -43.45 Q2.15 -44.55 -4.35 -47.95 -10.95 -51.45 -15.2 -56.0 -18.95 -60.05 -19.95 -64.0"
+       fill="#bc70fb"
+       fill-rule="evenodd"
+       stroke="none"
+       id="path3" />
+    <path
+       d="M4.05 -34.75 L3.5 -34.75 3.45 -34.75 2.9 -34.7 2.9 -30.55 2.9 -2.3 0.55 -2.3 -1.0 -2.3 -1.0 -34.7 -1.6 -34.75 -1.65 -34.75 -2.2 -34.75 -2.2 -1.15 4.05 -1.15 4.05 -34.75"
+       fill="#b2a5b2"
+       fill-rule="evenodd"
+       stroke="none"
+       id="path4" />
+    <path
+       d="M2.9 -34.7 L-0.85 -34.7 -1.0 -34.7 -1.0 -2.3 0.55 -2.3 0.55 -30.55 2.9 -30.55 2.9 -34.7"
+       fill="#daceda"
+       fill-rule="evenodd"
+       stroke="none"
+       id="path5" />
+    <path
+       d="M2.9 -30.55 L0.55 -30.55 0.55 -2.3 2.9 -2.3 2.9 -30.55"
+       fill="#ffffff"
+       fill-rule="evenodd"
+       stroke="none"
+       id="path6" />
+    <path
+       d="M15.25 -72.45 Q13.75 -74.55 11.45 -75.8 9.2 -77.05 6.3 -77.15 3.4 -77.25 1.95 -75.15 0.55 -73.05 1.9 -70.75 3.25 -68.4 5.45 -66.9 7.65 -65.45 11.25 -65.5 14.8 -65.55 15.75 -67.95 16.75 -70.4 15.25 -72.45"
+       fill="#c59fdb"
+       fill-rule="evenodd"
+       stroke="none"
+       id="path7" />
+  </g>
+</svg>
