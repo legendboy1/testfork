@@ -2912,25 +2912,20 @@ function drawMenu() {
 	ctx.textBaseline = 'bottom';
 	ctx.textAlign = 'left';
 	ctx.font = '20px Helvetica';
-
-	if (levelProgress > 99) drawMenu0Button('WATCH BFDIA 5c', 665.55, 303.75, false, menuWatchC);
-	else drawMenu0Button('WATCH BFDIA 5a', 665.55, 303.75, false, menuWatchA);
+	drawMenu0Button('WATCH BFDIA 5a', 357.05, 441.15, false, menuWatchA);
 	if (showingNewGame2) {
 		drawRoundedRect('#ffffff', 665.5, 81, 273, 72.95, 15);
 		ctx.font = '20px Helvetica';
 		ctx.fillStyle = '#666666';
 		ctx.textAlign = 'center';
 		ctx.textBaseline = 'top';
-		linebreakText('Are you sure you want to\nerase your saved progress\nand start a new game?', 802, 84.3, 22);
-		drawNewGame2Button('YES', 680.4, 169.75, '#993333', menuNewGame2yes);
-		drawNewGame2Button('NO', 815.9, 169.75, '#1a4d1a', menuNewGame2no);
+		linebreakText('Are you sure you want to\nerase your saved progress\nand start a new game?', 202, 84.3, 22);
+		drawNewGame2Button('YES', 80.4, 169.75, '#993333', menuNewGame2yes);
+		drawNewGame2Button('NO', 215.9, 169.75, '#1a4d1a', menuNewGame2no);
 	} else {
-		drawMenu0Button('OPTIONS', 665.55, 259.1, false, menuOptions);
-		drawMenu0Button('NEW GAME', 665.55, 348.4, false, menuNewGame);
+		drawMenu0Button('NEW GAME', 215.15, 388.4, false, menuNewGame);
 	}
-	drawMenu0Button('CONTINUE GAME', 665.55, 393.05, levelProgress == 0, menuContGame);
-	drawMenu0Button('LEVEL CREATOR', 665.55, 437.7, false, menuLevelCreator);
-	drawMenu0Button('EXPLORE', 665.55, 482.5, false, menuExplore);
+	drawMenu0Button('CONTINUE GAME', 508.35, 388.4, levelProgress == 0, menuContGame);
 
 	// let started = true;
 	// if (bfdia5b.data.levelProgress == undefined || bfdia5b.data.levelProgress == 0) {
