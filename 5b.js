@@ -2972,7 +2972,7 @@ function drawMenu() {
 	ctx.font = '20px Helvetica';
 	drawMenu0Button('WATCH BFDIA 5a', 357.05, 441.15, false, menuWatchA);
 	if (showingNewGame2) {
-		drawRoundedRect('#ffffff', 665.5, 81, 273, 72.95, 15);
+		drawRoundedRect('#ffffff', 202, 81, 273, 72.95, 15);
 		ctx.font = '20px Helvetica';
 		ctx.fillStyle = '#666666';
 		ctx.textAlign = 'center';
