@@ -2189,7 +2189,7 @@ let svgLevers = new Array(6);
 let svgShadows = new Array(19);
 let svgTileBorders = new Array(38);
 let svgChars = new Array(charD.length);
-let svgBodyParts = new Array(63);
+let svgBodyParts = new Array(65);
 let svgHPRCBubble = new Array(5);
 let svgCSBubble;
 let svgHPRCCrank;
