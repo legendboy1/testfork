@@ -1816,7 +1816,7 @@ const charModels = [
 	{
 		// Fanny
 		torsomat: {a:1,b:0,c:0,d:1,tx:-0.05,ty:-4.6},
-		legx: [-3.65, 6.8],
+		legx: [0, 10],
 		legy: [-11.25, -11.25],
 		firemat: {a:0.8855438232421875,b:0,c:0,d:1,tx:2.05,ty:0},
 		charimgmat: {a:-1,b:0,c:0,d:1,tx:-0.3,ty:0.5},
